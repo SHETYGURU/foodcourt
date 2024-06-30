@@ -2,6 +2,14 @@
 
 This project involves developing a user-friendly website for a college, integrating Google API’s and payment gateways. The project aims to streamline the food ordering process within the college campus, enhancing the overall user experience.
 
+## Project Confidentiality
+
+The project code cannot be disclosed as per the client's request. For more details about the project, please visit the [demo site]
+
+## Demo
+
+Check out the live demo [here](https://foodcourtdemosite.netlify.app/).
+
 ## Description
 
 - **Role**: Team Lead
@@ -16,10 +24,3 @@ This project involves developing a user-friendly website for a college, integrat
 - Real-time order tracking and management.
 - User-friendly interface for easy navigation and order placement.
 
-## Project Confidentiality
-
-The project code cannot be disclosed as per the client's request. For more details about the project, please visit the [demo site](https://foodcourtdemosite.netlify.app/).
-
-## Demo
-
-Check out the live demo [here](https://foodcourtdemosite.netlify.app/).
