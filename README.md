@@ -4,7 +4,7 @@ This project involves developing a user-friendly website for a college, integrat
 
 ## Project Confidentiality
 
-The project code cannot be disclosed as per the client's request. For more details about the project, please visit the [demo site]
+The project code cannot be disclosed as per the client's request. For more details about the project, please visit the [demo site](#demo)
 
 ## Demo
 
